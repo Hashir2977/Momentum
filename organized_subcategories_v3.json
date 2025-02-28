@@ -1,0 +1,1486 @@
+{
+    "strength": {
+        "abdominals": {
+            "pull": {
+                "beginner": [
+                    "3/4 Sit-Up",
+                    "Air Bike",
+                    "Alternate Heel Touchers",
+                    "Barbell Side Bend",
+                    "Bent-Knee Hip Raise",
+                    "Bosu Ball Cable Crunch With Side Bends",
+                    "Bottoms Up",
+                    "Butt-Ups",
+                    "Cable Crunch",
+                    "Cable Judo Flip",
+                    "Cable Reverse Crunch",
+                    "Cable Russian Twists",
+                    "Cable Seated Crunch",
+                    "Cocoons",
+                    "Cross-Body Crunch",
+                    "Crunches",
+                    "Crunch - Hands Overhead",
+                    "Crunch - Legs On Exercise Ball",
+                    "Dead Bug",
+                    "Decline Oblique Crunch",
+                    "Decline Reverse Crunch",
+                    "Dumbbell Side Bend",
+                    "Elbow to Knee",
+                    "Exercise Ball Crunch",
+                    "Exercise Ball Pull-In",
+                    "Flat Bench Leg Pull-In",
+                    "Flat Bench Lying Leg Raise",
+                    "Jackknife Sit-Up",
+                    "Janda Sit-Up",
+                    "Kneeling Cable Crunch With Alternating Oblique Twists",
+                    "Knee/Hip Raise On Parallel Bars",
+                    "Landmine 180's",
+                    "Leg Pull-In",
+                    "Oblique Crunches",
+                    "Oblique Crunches - On The Floor",
+                    "One-Arm High-Pulley Cable Side Bends",
+                    "One-Arm Medicine Ball Slam",
+                    "Otis-Up",
+                    "Pallof Press",
+                    "Pallof Press With Rotation",
+                    "Reverse Crunch",
+                    "Rope Crunch",
+                    "Seated Barbell Twist",
+                    "Seated Flat Bench Leg Pull-In",
+                    "Seated Leg Tucks",
+                    "Side Jackknife",
+                    "Sit-Up",
+                    "Smith Machine Hip Raise",
+                    "Spell Caster",
+                    "Spider Crawl",
+                    "Standing Cable Lift",
+                    "Standing Cable Wood Chop",
+                    "Standing Rope Crunch",
+                    "Suspended Reverse Crunch",
+                    "Tuck Crunch",
+                    "Weighted Crunches",
+                    "Wind Sprints"
+                ],
+                "intermediate": [
+                    "Ab Crunch Machine",
+                    "Ab Roller",
+                    "Barbell Ab Rollout",
+                    "Barbell Rollout from Bench",
+                    "Decline Crunch",
+                    "Double Kettlebell Windmill",
+                    "Frog Sit-Ups",
+                    "Gorilla Chin/Crunch",
+                    "Kettlebell Figure 8",
+                    "Kettlebell Pass Between The Legs",
+                    "Kettlebell Windmill",
+                    "Plate Twist",
+                    "Russian Twist",
+                    "Suspended Fallout",
+                    "Weighted Ball Side Bend",
+                    "Weighted Sit-Ups - With Bands"
+                ],
+                "expert": [
+                    "Barbell Ab Rollout - On Knees",
+                    "Bent Press",
+                    "Hanging Leg Raise",
+                    "Hanging Pike"
+                ]
+            },
+            "push": {
+                "intermediate": [
+                    "Advanced Kettlebell Windmill"
+                ],
+                "expert": [
+                    "Press Sit-Up"
+                ]
+            },
+            "static": {
+                "beginner": [
+                    "Plank",
+                    "Side Bridge"
+                ]
+            }
+        },
+        "biceps": {
+            "pull": {
+                "beginner": [
+                    "Alternate Hammer Curl",
+                    "Alternate Incline Dumbbell Curl",
+                    "Barbell Curl",
+                    "Barbell Curls Lying Against An Incline",
+                    "Cable Hammer Curls - Rope Attachment",
+                    "Cable Preacher Curl",
+                    "Close-Grip EZ-Bar Curl with Band",
+                    "Close-Grip EZ Bar Curl",
+                    "Close-Grip Standing Barbell Curl",
+                    "Concentration Curls",
+                    "Cross Body Hammer Curl",
+                    "Dumbbell Alternate Bicep Curl",
+                    "Dumbbell Bicep Curl",
+                    "EZ-Bar Curl",
+                    "Flexor Incline Dumbbell Curls",
+                    "Hammer Curls",
+                    "Incline Dumbbell Curl",
+                    "Incline Hammer Curls",
+                    "Lying Close-Grip Bar Curl On High Pulley",
+                    "Lying Supine Dumbbell Curl",
+                    "Machine Bicep Curl",
+                    "Machine Preacher Curls",
+                    "One Arm Dumbbell Preacher Curl",
+                    "Preacher Curl",
+                    "Preacher Hammer Dumbbell Curl",
+                    "Reverse Barbell Curl",
+                    "Reverse Cable Curl",
+                    "Reverse Plate Curls",
+                    "Seated Dumbbell Curl",
+                    "Seated Dumbbell Inner Biceps Curl",
+                    "Spider Curl",
+                    "Standing Biceps Cable Curl",
+                    "Standing Concentration Curl",
+                    "Standing One-Arm Dumbbell Curl Over Incline Bench",
+                    "Two-Arm Dumbbell Preacher Curl",
+                    "Wide-Grip Standing Barbell Curl"
+                ],
+                "intermediate": [
+                    "Drag Curl",
+                    "Dumbbell Prone Incline Curl",
+                    "High Cable Curls",
+                    "Lying Cable Curl",
+                    "Lying High Bench Barbell Curl",
+                    "Overhead Cable Curl",
+                    "Reverse Barbell Preacher Curls",
+                    "Seated Close-Grip Concentration Barbell Curl",
+                    "Standing Dumbbell Reverse Curl",
+                    "Standing Inner-Biceps Curl",
+                    "Standing One-Arm Cable Curl",
+                    "Zottman Curl",
+                    "Zottman Preacher Curl"
+                ]
+            }
+        },
+        "shoulders": {
+            "push": {
+                "beginner": [
+                    "Alternating Cable Shoulder Press",
+                    "Alternating Deltoid Raise",
+                    "Anti-Gravity Press",
+                    "Barbell Incline Shoulder Raise",
+                    "Battling Ropes",
+                    "Bradford/Rocky Presses",
+                    "Cable Shoulder Press",
+                    "Car Drivers",
+                    "Dumbbell Incline Shoulder Raise",
+                    "Dumbbell Scaption",
+                    "Front Cable Raise",
+                    "Front Dumbbell Raise",
+                    "Front Incline Dumbbell Raise",
+                    "Front Two-Dumbbell Raise",
+                    "Kettlebell Pirate Ships",
+                    "Lateral Raise - With Bands",
+                    "Leverage Shoulder Press",
+                    "Machine Shoulder (Military) Press",
+                    "One-Arm Incline Lateral Raise",
+                    "One-Arm Side Laterals",
+                    "Power Partials",
+                    "Seated Cable Shoulder Press",
+                    "Seated Dumbbell Press",
+                    "Seated Side Lateral Raise",
+                    "Shoulder Press - With Bands",
+                    "Side Laterals to Front Raise",
+                    "Side Lateral Raise",
+                    "Smith Incline Shoulder Raise",
+                    "Smith Machine Overhead Shoulder Press",
+                    "Standing Alternating Dumbbell Press",
+                    "Standing Bradford Press",
+                    "Standing Dumbbell Press",
+                    "Standing Low-Pulley Deltoid Raise",
+                    "Standing Military Press",
+                    "Standing Palm-In One-Arm Dumbbell Press",
+                    "Straight Raises on Incline Bench"
+                ],
+                "intermediate": [
+                    "Alternating Kettlebell Press",
+                    "Arnold Dumbbell Press",
+                    "Barbell Shoulder Press",
+                    "Clean and Press",
+                    "Cuban Press",
+                    "Double Kettlebell Jerk",
+                    "Double Kettlebell Push Press",
+                    "Dumbbell One-Arm Shoulder Press",
+                    "Dumbbell Shoulder Press",
+                    "Front Plate Raise",
+                    "Iron Cross",
+                    "Kettlebell Arnold Press",
+                    "Kettlebell Seated Press",
+                    "Kettlebell Seesaw Press",
+                    "Kettlebell Thruster",
+                    "Kettlebell Turkish Get-Up (Lunge style)",
+                    "Kettlebell Turkish Get-Up (Squat style)",
+                    "Landmine Linear Jammer",
+                    "One-Arm Kettlebell Clean and Jerk",
+                    "One-Arm Kettlebell Jerk",
+                    "One-Arm Kettlebell Military Press To The Side",
+                    "One-Arm Kettlebell Para Press",
+                    "One-Arm Kettlebell Push Press",
+                    "One-Arm Kettlebell Split Jerk",
+                    "Seated Barbell Military Press",
+                    "See-Saw Press (Alternating Side Press)",
+                    "Single-Arm Linear Jammer",
+                    "Standing Barbell Press Behind Neck",
+                    "Standing Dumbbell Straight-Arm Front Delt Raise Above Head",
+                    "Standing Front Barbell Raise Over Head",
+                    "Standing Palms-In Dumbbell Press",
+                    "Two-Arm Kettlebell Jerk",
+                    "Two-Arm Kettlebell Military Press"
+                ],
+                "expert": [
+                    "Handstand Push-Ups"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Back Flyes - With Bands",
+                    "Band Pull Apart",
+                    "Barbell Rear Delt Row",
+                    "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+                    "Bent Over Low-Pulley Side Lateral",
+                    "Cable Internal Rotation",
+                    "Cable Rear Delt Fly",
+                    "Cable Rope Rear-Delt Rows",
+                    "Cable Seated Lateral Raise",
+                    "Dumbbell Raise",
+                    "External Rotation",
+                    "External Rotation with Band",
+                    "External Rotation with Cable",
+                    "Low Pulley Row To Neck",
+                    "Reverse Flyes",
+                    "Reverse Machine Flyes",
+                    "Sled Overhead Backward Walk",
+                    "Sled Reverse Flye",
+                    "Smith Machine One-Arm Upright Row",
+                    "Upright Barbell Row"
+                ],
+                "expert": [
+                    "Double Kettlebell Snatch",
+                    "One-Arm Kettlebell Snatch",
+                    "One-Arm Kettlebell Split Snatch"
+                ],
+                "intermediate": [
+                    "Dumbbell Lying One-Arm Rear Lateral Raise",
+                    "Dumbbell Lying Rear Lateral Raise",
+                    "Dumbbell One-Arm Upright Row",
+                    "Face Pull",
+                    "Lying One-Arm Lateral Raise",
+                    "Lying Rear Delt Raise",
+                    "Reverse Flyes With External Rotation",
+                    "Seated Bent-Over Rear Delt Raise",
+                    "Two-Arm Kettlebell Clean"
+                ]
+            }
+        },
+        "chest": {
+            "push": {
+                "beginner": [
+                    "Alternating Floor Press",
+                    "Barbell Bench Press - Medium Grip",
+                    "Barbell Incline Bench Press - Medium Grip",
+                    "Bench Press - With Bands",
+                    "Cable Chest Press",
+                    "Cable Crossover",
+                    "Cable Iron Cross",
+                    "Cross Over - With Bands",
+                    "Decline Barbell Bench Press",
+                    "Decline Dumbbell Bench Press",
+                    "Decline Dumbbell Flyes",
+                    "Decline Push-Up",
+                    "Decline Smith Press",
+                    "Dumbbell Bench Press",
+                    "Dumbbell Bench Press with Neutral Grip",
+                    "Dumbbell Flyes",
+                    "Extended Range One-Arm Kettlebell Floor Press",
+                    "Hammer Grip Incline DB Bench Press",
+                    "Incline Cable Chest Press",
+                    "Incline Dumbbell Bench With Palms Facing In",
+                    "Incline Dumbbell Flyes",
+                    "Incline Dumbbell Flyes - With A Twist",
+                    "Incline Dumbbell Press",
+                    "Incline Push-Up",
+                    "Incline Push-Up Medium",
+                    "Incline Push-Up Reverse Grip",
+                    "Incline Push-Up Wide",
+                    "Isometric Wipers",
+                    "Leverage Chest Press",
+                    "Leverage Decline Chest Press",
+                    "Leverage Incline Chest Press",
+                    "Low Cable Crossover",
+                    "Machine Bench Press",
+                    "One-Arm Flat Bench Dumbbell Flye",
+                    "One Arm Dumbbell Bench Press",
+                    "Push-Ups With Feet Elevated",
+                    "Pushups",
+                    "Pushups (Close and Wide Hand Positions)",
+                    "Push Up to Side Plank",
+                    "Single-Arm Cable Crossover",
+                    "Smith Machine Bench Press",
+                    "Smith Machine Incline Bench Press",
+                    "Standing Cable Chest Press",
+                    "Suspended Push-Up",
+                    "Svend Press"
+                ],
+                "intermediate": [
+                    "Around The Worlds",
+                    "Barbell Guillotine Bench Press",
+                    "Bent-Arm Dumbbell Pullover",
+                    "Bodyweight Flyes",
+                    "Clock Push-Up",
+                    "Dips - Chest Version",
+                    "Flat Bench Cable Flyes",
+                    "Incline Cable Flye",
+                    "Leg-Over Floor Press",
+                    "Neck Press",
+                    "One-Arm Kettlebell Floor Press",
+                    "Push-Ups With Feet On An Exercise Ball",
+                    "Single-Arm Push-Up",
+                    "Wide-Grip Barbell Bench Press",
+                    "Wide-Grip Decline Barbell Bench Press"
+                ],
+                "expert": [
+                    "Plyo Kettlebell Pushups"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Butterfly",
+                    "Front Raise And Pullover"
+                ],
+                "intermediate": [
+                    "Straight-Arm Dumbbell Pullover",
+                    "Wide-Grip Decline Barbell Pullover"
+                ]
+            }
+        },
+        "hamstrings": {
+            "pull": {
+                "intermediate": [
+                    "Alternating Hang Clean",
+                    "Double Kettlebell Alternating Hang Clean",
+                    "Dumbbell Clean",
+                    "Floor Glute-Ham Raise",
+                    "Kettlebell Dead Clean",
+                    "Kettlebell Hang Clean",
+                    "Kettlebell One-Legged Deadlift",
+                    "Natural Glute Ham Raise",
+                    "One-Arm Kettlebell Clean",
+                    "One-Arm Kettlebell Swings",
+                    "One-Arm Open Palm Kettlebell Clean",
+                    "Power Clean",
+                    "Reverse Hyperextension",
+                    "Romanian Deadlift",
+                    "Smith Machine Hang Power Clean",
+                    "Snatch Pull",
+                    "Stiff-Legged Barbell Deadlift"
+                ],
+                "beginner": [
+                    "Ball Leg Curl",
+                    "Lying Leg Curls",
+                    "Platform Hamstring Slides",
+                    "Seated Band Hamstring Curl",
+                    "Seated Leg Curl",
+                    "Smith Machine Stiff-Legged Deadlift",
+                    "Standing Leg Curl",
+                    "Stiff-Legged Dumbbell Deadlift"
+                ],
+                "expert": [
+                    "Open Palm Kettlebell Clean"
+                ]
+            },
+            "push": {
+                "intermediate": [
+                    "Lunge Pass Through"
+                ]
+            },
+            "static": {
+                "beginner": [
+                    "Prone Manual Hamstring"
+                ]
+            }
+        },
+        "middle back": {
+            "pull": {
+                "intermediate": [
+                    "Alternating Kettlebell Row",
+                    "Bent Over Two-Arm Long Bar Row",
+                    "Bodyweight Mid Row",
+                    "Lying T-Bar Row",
+                    "Middle Back Shrug",
+                    "One-Arm Kettlebell Row",
+                    "Reverse Grip Bent-Over Rows",
+                    "Seated One-arm Cable Pulley Rows",
+                    "Two-Arm Kettlebell Row"
+                ],
+                "expert": [
+                    "Alternating Renegade Row",
+                    "Mixed Grip Chin",
+                    "One Arm Chin-Up"
+                ],
+                "beginner": [
+                    "Bent Over Barbell Row",
+                    "Bent Over One-Arm Long Bar Row",
+                    "Bent Over Two-Dumbbell Row",
+                    "Bent Over Two-Dumbbell Row With Palms In",
+                    "Dumbbell Incline Row",
+                    "Incline Bench Pull",
+                    "Inverted Row",
+                    "Inverted Row with Straps",
+                    "Leverage High Row",
+                    "Lying Cambered Barbell Row",
+                    "One-Arm Dumbbell Row",
+                    "One-Arm Long Bar Row",
+                    "Seated Cable Rows",
+                    "Sled Row",
+                    "Smith Machine Bent Over Row",
+                    "Straight Bar Bench Mid Rows",
+                    "Suspended Row",
+                    "T-Bar Row with Handle"
+                ]
+            }
+        },
+        "adductors": {
+            "pull": {
+                "beginner": [
+                    "Band Hip Adductions",
+                    "Thigh Adductor"
+                ]
+            }
+        },
+        "triceps": {
+            "push": {
+                "beginner": [
+                    "Band Skull Crusher",
+                    "Bench Dips",
+                    "Body Tricep Press",
+                    "Cable Incline Triceps Extension",
+                    "Cable Lying Triceps Extension",
+                    "Cable One Arm Tricep Extension",
+                    "Cable Rope Overhead Triceps Extension",
+                    "Close-Grip Barbell Bench Press",
+                    "Close-Grip Dumbbell Press",
+                    "Close-Grip EZ-Bar Press",
+                    "Decline Dumbbell Triceps Extension",
+                    "Decline EZ Bar Triceps Extension",
+                    "Dips - Triceps Version",
+                    "Dip Machine",
+                    "Dumbbell Tricep Extension -Pronated Grip",
+                    "EZ-Bar Skullcrusher",
+                    "Incline Push-Up Close-Grip",
+                    "JM Press",
+                    "Low Cable Triceps Extension",
+                    "Machine Triceps Extension",
+                    "One Arm Pronated Dumbbell Triceps Extension",
+                    "One Arm Supinated Dumbbell Triceps Extension",
+                    "Parallel Bar Dip",
+                    "Reverse Grip Triceps Pushdown",
+                    "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
+                    "Seated Triceps Press",
+                    "Sled Overhead Triceps Extension",
+                    "Smith Machine Close-Grip Bench Press",
+                    "Speed Band Overhead Triceps",
+                    "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+                    "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
+                    "Standing Dumbbell Triceps Extension",
+                    "Standing One-Arm Dumbbell Triceps Extension",
+                    "Standing Overhead Barbell Triceps Extension",
+                    "Standing Towel Triceps Extension",
+                    "Triceps Overhead Extension with Rope",
+                    "Triceps Pushdown",
+                    "Triceps Pushdown - Rope Attachment",
+                    "Triceps Pushdown - V-Bar Attachment",
+                    "Tricep Dumbbell Kickback"
+                ],
+                "intermediate": [
+                    "Body-Up",
+                    "Close-Grip Push-Up off of a Dumbbell",
+                    "Decline Close-Grip Bench To Skull Crusher",
+                    "Dumbbell One-Arm Triceps Extension",
+                    "Incline Barbell Triceps Extension",
+                    "Kneeling Cable Triceps Extension",
+                    "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+                    "Lying Close-Grip Barbell Triceps Press To Chin",
+                    "Lying Dumbbell Tricep Extension",
+                    "Lying Triceps Press",
+                    "One Arm Floor Press",
+                    "Push-Ups - Close Triceps Position",
+                    "Reverse Triceps Bench Press",
+                    "Ring Dips",
+                    "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+                    "Standing Low-Pulley One-Arm Triceps Extension",
+                    "Tate Press",
+                    "Weighted Bench Dip"
+                ]
+            }
+        },
+        "lower back": {
+            "pull": {
+                "intermediate": [
+                    "Barbell Deadlift",
+                    "Hyperextensions With No Hyperextension Bench",
+                    "Weighted Ball Hyperextension"
+                ],
+                "beginner": [
+                    "Hyperextensions (Back Extensions)"
+                ]
+            },
+            "push": {
+                "beginner": [
+                    "Stiff Leg Barbell Good Morning"
+                ]
+            }
+        },
+        "quadriceps": {
+            "push": {
+                "intermediate": [
+                    "Barbell Full Squat",
+                    "Barbell Hack Squat",
+                    "Barbell Lunge",
+                    "Barbell Step Ups",
+                    "Dumbbell Rear Lunge",
+                    "Dumbbell Squat To A Bench",
+                    "Dumbbell Step Ups",
+                    "Elevated Back Lunge",
+                    "Freehand Jump Squat",
+                    "Front Squats With Two Kettlebells",
+                    "Front Squat (Clean Grip)",
+                    "Jefferson Squats",
+                    "Lunge Sprint",
+                    "Lying Machine Squat",
+                    "Narrow Stance Hack Squats",
+                    "Narrow Stance Leg Press",
+                    "Narrow Stance Squats",
+                    "Smith Machine Leg Press",
+                    "Smith Machine Pistol Squat",
+                    "Squat with Plate Movers",
+                    "Suspended Split Squat",
+                    "Weighted Jump Squat",
+                    "Weighted Squat",
+                    "Wide Stance Barbell Squat"
+                ],
+                "beginner": [
+                    "Barbell Side Split Squat",
+                    "Barbell Squat",
+                    "Barbell Walking Lunge",
+                    "Bodyweight Squat",
+                    "Bodyweight Walking Lunge",
+                    "Chair Squat",
+                    "Dumbbell Lunges",
+                    "Dumbbell Squat",
+                    "Goblet Squat",
+                    "Hack Squat",
+                    "Leg Extensions",
+                    "Leg Press",
+                    "Plie Dumbbell Squat",
+                    "Single-Leg High Box Squat",
+                    "Single-Leg Leg Extension",
+                    "Smith Machine Squat",
+                    "Smith Single-Leg Split Squat",
+                    "Split Squat with Dumbbells",
+                    "Squats - With Bands"
+                ],
+                "expert": [
+                    "Barbell Squat To A Bench",
+                    "Box Squat with Chains",
+                    "Front Barbell Squat",
+                    "Front Barbell Squat To A Bench",
+                    "Kettlebell Pistol Squat",
+                    "One-Arm Overhead Kettlebell Squats",
+                    "One Leg Barbell Squat",
+                    "Speed Squats",
+                    "Squat Jerk",
+                    "Weighted Sissy Squat",
+                    "Zercher Squats"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Cable Deadlifts",
+                    "Cable Hip Adduction",
+                    "Hip Flexion with Band",
+                    "Leverage Deadlift",
+                    "Trap Bar Deadlift"
+                ],
+                "expert": [
+                    "One-Arm Side Deadlift"
+                ]
+            }
+        },
+        "calves": {
+            "push": {
+                "beginner": [
+                    "Barbell Seated Calf Raise",
+                    "Calf Press",
+                    "Calf Press On The Leg Press Machine",
+                    "Calf Raises - With Bands",
+                    "Dumbbell Seated One-Leg Calf Raise",
+                    "Rocking Standing Calf Raise",
+                    "Seated Calf Raise",
+                    "Smith Machine Calf Raise",
+                    "Smith Machine Reverse Calf Raises",
+                    "Standing Barbell Calf Raise",
+                    "Standing Calf Raises"
+                ],
+                "intermediate": [
+                    "Calf Raise On A Dumbbell",
+                    "Donkey Calf Raises",
+                    "Standing Dumbbell Calf Raise"
+                ]
+            }
+        },
+        "traps": {
+            "pull": {
+                "beginner": [
+                    "Barbell Shrug",
+                    "Barbell Shrug Behind The Back",
+                    "Cable Shrugs",
+                    "Calf-Machine Shoulder Shrug",
+                    "Dumbbell Shrug",
+                    "Leverage Shrug",
+                    "Scapular Pull-Up",
+                    "Smith Machine Behind the Back Shrug",
+                    "Smith Machine Upright Row",
+                    "Standing Dumbbell Upright Row",
+                    "Upright Row - With Bands"
+                ],
+                "intermediate": [
+                    "Kettlebell Sumo High Pull",
+                    "Upright Cable Row"
+                ]
+            }
+        },
+        "lats": {
+            "pull": {
+                "intermediate": [
+                    "Bent-Arm Barbell Pullover",
+                    "Elevated Cable Rows",
+                    "Full Range-Of-Motion Lat Pulldown",
+                    "Gironda Sternum Chins",
+                    "Kipping Muscle Up",
+                    "London Bridges",
+                    "Muscle Up",
+                    "Rocky Pull-Ups/Pulldowns",
+                    "Rope Climb",
+                    "Side To Side Chins",
+                    "V-Bar Pulldown",
+                    "Weighted Pull Ups",
+                    "Wide-Grip Pulldown Behind The Neck",
+                    "Wide-Grip Rear Pull-Up"
+                ],
+                "beginner": [
+                    "Cable Incline Pushdown",
+                    "Chin-Up",
+                    "Close-Grip Front Lat Pulldown",
+                    "Kneeling High Pulley Row",
+                    "Kneeling Single-Arm High Pulley Row",
+                    "Leverage Iso Row",
+                    "One Arm Lat Pulldown",
+                    "Pullups",
+                    "Rope Straight-Arm Pulldown",
+                    "Shotgun Row",
+                    "Straight-Arm Pulldown",
+                    "Underhand Cable Pulldowns",
+                    "V-Bar Pullup",
+                    "Wide-Grip Lat Pulldown"
+                ]
+            }
+        },
+        "forearms": {
+            "pull": {
+                "intermediate": [
+                    "Bottoms-Up Clean From The Hang Position",
+                    "Dumbbell Lying Pronation",
+                    "Dumbbell Lying Supination",
+                    "Seated One-Arm Dumbbell Palms-Down Wrist Curl"
+                ],
+                "beginner": [
+                    "Cable Wrist Curl",
+                    "Finger Curls",
+                    "Palms-Down Dumbbell Wrist Curl Over A Bench",
+                    "Palms-Down Wrist Curl Over A Bench",
+                    "Palms-Up Barbell Wrist Curl Over A Bench",
+                    "Palms-Up Dumbbell Wrist Curl Over A Bench",
+                    "Seated Dumbbell Palms-Down Wrist Curl",
+                    "Seated Dumbbell Palms-Up Wrist Curl",
+                    "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+                    "Seated Palm-Up Barbell Wrist Curl",
+                    "Seated Palms-Down Barbell Wrist Curl",
+                    "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+                    "Standing Palms-Up Barbell Behind The Back Wrist Curl",
+                    "Wrist Roller",
+                    "Wrist Rotations with Straight Bar"
+                ]
+            },
+            "static": {
+                "intermediate": [
+                    "Plate Pinch"
+                ],
+                "beginner": [
+                    "Standing Olympic Plate Hand Squeeze"
+                ]
+            }
+        },
+        "glutes": {
+            "push": {
+                "beginner": [
+                    "Butt Lift (Bridge)",
+                    "Glute Kickback",
+                    "Hip Extension with Bands",
+                    "Leg Lift",
+                    "Physioball Hip Bridge",
+                    "Single Leg Glute Bridge",
+                    "Step-up with Knee Raise"
+                ],
+                "intermediate": [
+                    "One-Legged Cable Kickback"
+                ]
+            },
+            "static": {
+                "intermediate": [
+                    "Downward Facing Balance"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Flutter Kicks",
+                    "Pull Through"
+                ]
+            }
+        },
+        "neck": {
+            "static": {
+                "beginner": [
+                    "Isometric Neck Exercise - Front And Back",
+                    "Isometric Neck Exercise - Sides"
+                ]
+            },
+            "pull": {
+                "intermediate": [
+                    "Lying Face Down Plate Neck Resistance",
+                    "Lying Face Up Plate Neck Resistance",
+                    "Seated Head Harness Neck Resistance"
+                ]
+            }
+        },
+        "abductors": {
+            "pull": {
+                "beginner": [
+                    "Monster Walk"
+                ]
+            },
+            "push": {
+                "beginner": [
+                    "Thigh Abductor"
+                ]
+            }
+        }
+    },
+    "stretching": {
+        "hamstrings": {
+            "push": {
+                "beginner": [
+                    "90/90 Hamstring",
+                    "Leg-Up Hamstring Stretch"
+                ],
+                "intermediate": [
+                    "Split Squats"
+                ]
+            },
+            "static": {
+                "beginner": [
+                    "Chair Leg Extended Stretch",
+                    "Hamstring-SMR",
+                    "Hamstring Stretch",
+                    "Runner's Stretch",
+                    "Seated Floor Hamstring Stretch",
+                    "Standing Hamstring and Calf Stretch",
+                    "Standing Toe Touches",
+                    "The Straddle",
+                    "Upper Back-Leg Grab"
+                ],
+                "intermediate": [
+                    "Intermediate Groin Stretch",
+                    "Seated Hamstring and Calf Stretch",
+                    "World's Greatest Stretch"
+                ],
+                "expert": [
+                    "Lying Hamstring",
+                    "Seated Hamstring"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Front Leg Raises"
+                ]
+            }
+        },
+        "adductors": {
+            "static": {
+                "intermediate": [
+                    "Adductor",
+                    "Adductor/Groin",
+                    "Groin and Back Stretch"
+                ],
+                "expert": [
+                    "Lying Bent Leg Groin"
+                ],
+                "beginner": [
+                    "Side Lying Groin Stretch"
+                ]
+            },
+            "pull": {
+                "intermediate": [
+                    "Groiners"
+                ],
+                "beginner": [
+                    "Side Leg Raises"
+                ]
+            }
+        },
+        "quadriceps": {
+            "static": {
+                "intermediate": [
+                    "All Fours Quad Stretch",
+                    "Intermediate Hip Flexor and Quad Stretch",
+                    "Quadriceps-SMR",
+                    "Quad Stretch"
+                ],
+                "beginner": [
+                    "Kneeling Hip Flexor",
+                    "Looking At Ceiling",
+                    "On-Your-Back Quad Stretch",
+                    "One Half Locust",
+                    "On Your Side Quad Stretch",
+                    "Standing Elevated Quad Stretch",
+                    "Standing Hip Flexors"
+                ]
+            },
+            "push": {
+                "intermediate": [
+                    "Frog Hops"
+                ],
+                "beginner": [
+                    "Rear Leg Raises",
+                    "Sit Squats"
+                ]
+            },
+            "pull": {
+                "intermediate": [
+                    "Iron Crosses (stretch)"
+                ]
+            }
+        },
+        "calves": {
+            "pull": {
+                "beginner": [
+                    "Ankle Circles",
+                    "Knee Circles"
+                ]
+            },
+            "static": {
+                "intermediate": [
+                    "Anterior Tibialis-SMR",
+                    "Calves-SMR",
+                    "Foot-SMR",
+                    "Peroneals-SMR",
+                    "Peroneals Stretch",
+                    "Posterior Tibialis Stretch"
+                ],
+                "beginner": [
+                    "Calf Stretch Elbows Against Wall",
+                    "Calf Stretch Hands Against Wall",
+                    "Seated Calf Stretch",
+                    "Standing Gastrocnemius Calf Stretch",
+                    "Standing Soleus And Achilles Stretch"
+                ]
+            }
+        },
+        "glutes": {
+            "static": {
+                "beginner": [
+                    "Ankle On The Knee",
+                    "Knee Across The Body",
+                    "One Knee To Chest"
+                ],
+                "expert": [
+                    "Lying Glute",
+                    "Seated Glute"
+                ],
+                "intermediate": [
+                    "Piriformis-SMR"
+                ]
+            }
+        },
+        "shoulders": {
+            "push": {
+                "beginner": [
+                    "Arm Circles"
+                ]
+            },
+            "static": {
+                "beginner": [
+                    "Chair Upper Body Stretch",
+                    "Round The World Shoulder Stretch",
+                    "Side Wrist Pull",
+                    "Upward Stretch"
+                ],
+                "expert": [
+                    "Seated Front Deltoid"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Elbow Circles",
+                    "Shoulder Circles",
+                    "Shoulder Raise",
+                    "Shoulder Stretch"
+                ]
+            }
+        },
+        "chest": {
+            "static": {
+                "expert": [
+                    "Behind Head Chest Stretch"
+                ],
+                "beginner": [
+                    "Chest And Front Of Shoulder Stretch",
+                    "Chest Stretch on Stability Ball",
+                    "Elbows Back"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Dynamic Chest Stretch"
+                ]
+            }
+        },
+        "biceps": {
+            "static": {
+                "intermediate": [
+                    "Brachialis-SMR"
+                ],
+                "expert": [
+                    "Seated Biceps"
+                ],
+                "beginner": [
+                    "Standing Biceps Stretch"
+                ]
+            }
+        },
+        "lower back": {
+            "static": {
+                "beginner": [
+                    "Cat Stretch",
+                    "Child's Pose",
+                    "Dancer's Stretch",
+                    "Hug A Ball",
+                    "Hug Knees To Chest",
+                    "Lower Back-SMR",
+                    "Pyramid",
+                    "Standing Pelvic Tilt",
+                    "Superman"
+                ],
+                "intermediate": [
+                    "Pelvic Tilt Into Bridge"
+                ]
+            },
+            "pull": {
+                "intermediate": [
+                    "Crossover Reverse Lunge"
+                ]
+            }
+        },
+        "lats": {
+            "static": {
+                "beginner": [
+                    "Chair Lower Back Stretch",
+                    "Latissimus Dorsi-SMR",
+                    "One Arm Against Wall",
+                    "One Handed Hang",
+                    "Side-Lying Floor Stretch"
+                ],
+                "expert": [
+                    "Overhead Lat"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Dynamic Back Stretch"
+                ]
+            }
+        },
+        "neck": {
+            "static": {
+                "beginner": [
+                    "Chin To Chest Stretch",
+                    "Side Neck Stretch"
+                ],
+                "intermediate": [
+                    "Neck-SMR"
+                ]
+            }
+        },
+        "abductors": {
+            "pull": {
+                "beginner": [
+                    "Hip Circles (prone)",
+                    "Standing Hip Circles"
+                ],
+                "intermediate": [
+                    "Windmills"
+                ]
+            },
+            "static": {
+                "intermediate": [
+                    "Iliotibial Tract-SMR",
+                    "IT Band and Glute Stretch"
+                ],
+                "expert": [
+                    "Lying Crossover"
+                ]
+            }
+        },
+        "forearms": {
+            "static": {
+                "beginner": [
+                    "Kneeling Forearm Stretch"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Wrist Circles"
+                ]
+            }
+        },
+        "abdominals": {
+            "static": {
+                "beginner": [
+                    "Lower Back Curl",
+                    "Overhead Stretch",
+                    "Seated Overhead Stretch",
+                    "Standing Lateral Stretch",
+                    "Stomach Vacuum"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Scissor Kick",
+                    "Toe Touchers",
+                    "Torso Rotation"
+                ]
+            }
+        },
+        "middle back": {
+            "static": {
+                "beginner": [
+                    "Middle Back Stretch",
+                    "Spinal Stretch",
+                    "Upper Back Stretch"
+                ],
+                "intermediate": [
+                    "Rhomboids-SMR"
+                ]
+            }
+        },
+        "triceps": {
+            "static": {
+                "expert": [
+                    "Overhead Triceps"
+                ],
+                "beginner": [
+                    "Triceps Stretch",
+                    "Tricep Side Stretch"
+                ]
+            }
+        }
+    },
+    "plyometrics": {
+        "quadriceps": {
+            "push": {
+                "beginner": [
+                    "Alternate Leg Diagonal Bound",
+                    "Bench Sprint",
+                    "Depth Jump Leap",
+                    "Double Leg Butt Kick",
+                    "Fast Skipping",
+                    "Front Cone Hops (or hurdle hops)",
+                    "Quick Leap",
+                    "Rocket Jump",
+                    "Scissors Jump",
+                    "Side Hop-Sprint",
+                    "Side Standing Long Jump",
+                    "Side to Side Box Shuffle",
+                    "Single-Cone Sprint Drill",
+                    "Single-Leg Hop Progression",
+                    "Single-Leg Lateral Hop",
+                    "Single-Leg Stride Jump",
+                    "Single Leg Butt Kick",
+                    "Single Leg Push-off",
+                    "Split Jump",
+                    "Standing Long Jump",
+                    "Star Jump",
+                    "Stride Jump Crossover"
+                ],
+                "intermediate": [
+                    "Bench Jump",
+                    "Dumbbell Seated Box Jump",
+                    "Linear Depth Jump"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Mountain Climbers"
+                ]
+            }
+        },
+        "shoulders": {
+            "push": {
+                "beginner": [
+                    "Backward Medicine Ball Throw",
+                    "Medicine Ball Scoop Throw",
+                    "Return Push from Stance"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Kneeling Arm Drill",
+                    "Standing Two-Arm Overhead Throw"
+                ]
+            }
+        },
+        "hamstrings": {
+            "push": {
+                "beginner": [
+                    "Box Jump (Multiple Response)",
+                    "Box Skip",
+                    "Front Box Jump",
+                    "Hurdle Hops",
+                    "Knee Tuck Jump",
+                    "Linear 3-Part Start Technique"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Vertical Swing"
+                ]
+            }
+        },
+        "lats": {
+            "push": {
+                "beginner": [
+                    "Catch and Overhead Throw"
+                ]
+            },
+            "pull": {
+                "beginner": [
+                    "Overhead Slam"
+                ]
+            }
+        },
+        "chest": {
+            "push": {
+                "beginner": [
+                    "Chest Push (multiple response)",
+                    "Chest Push (single response)",
+                    "Chest Push from 3 point stance",
+                    "Chest Push with Run Release",
+                    "Heavy Bag Thrust",
+                    "Incline Push-Up Depth Jump",
+                    "Medicine Ball Chest Pass",
+                    "Plyo Push-up"
+                ],
+                "intermediate": [
+                    "Drop Push"
+                ]
+            },
+            "static": {
+                "beginner": [
+                    "Isometric Chest Squeezes"
+                ]
+            }
+        },
+        "adductors": {
+            "push": {
+                "beginner": [
+                    "Lateral Bound",
+                    "Lateral Box Jump",
+                    "Lateral Cone Hops"
+                ]
+            }
+        },
+        "abdominals": {
+            "pull": {
+                "beginner": [
+                    "Medicine Ball Full Twist",
+                    "Sledgehammer Swings",
+                    "Supine One-Arm Overhead Throw",
+                    "Supine Two-Arm Overhead Throw"
+                ]
+            }
+        },
+        "triceps": {
+            "push": {
+                "beginner": [
+                    "Supine Chest Throw"
+                ]
+            }
+        }
+    },
+    "strongman": {
+        "lower back": {
+            "pull": {
+                "expert": [
+                    "Atlas Stones"
+                ],
+                "intermediate": [
+                    "Atlas Stone Trainer",
+                    "Axle Deadlift",
+                    "Keg Load"
+                ]
+            }
+        },
+        "quadriceps": {
+            "pull": {
+                "beginner": [
+                    "Backward Drag",
+                    "Sandbag Load"
+                ],
+                "intermediate": [
+                    "Car Deadlift",
+                    "Rickshaw Deadlift",
+                    "Tire Flip"
+                ]
+            },
+            "push": {
+                "beginner": [
+                    "Bear Crawl Sled Drags",
+                    "Sled Drag - Harness",
+                    "Sled Push"
+                ]
+            }
+        },
+        "shoulders": {
+            "push": {
+                "expert": [
+                    "Circus Bell"
+                ],
+                "intermediate": [
+                    "Log Lift"
+                ]
+            },
+            "static": {
+                "beginner": [
+                    "Crucifix"
+                ]
+            }
+        },
+        "chest": {
+            "push": {
+                "intermediate": [
+                    "Forward Drag with Press"
+                ]
+            }
+        },
+        "hamstrings": {
+            "pull": {
+                "intermediate": [
+                    "Power Stairs"
+                ]
+            }
+        }
+    },
+    "powerlifting": {
+        "hamstrings": {
+            "pull": {
+                "beginner": [
+                    "Band Good Morning",
+                    "Band Good Morning (Pull Through)"
+                ],
+                "intermediate": [
+                    "Glute Ham Raise",
+                    "Sumo Deadlift",
+                    "Sumo Deadlift with Bands",
+                    "Sumo Deadlift with Chains"
+                ],
+                "expert": [
+                    "Reverse Band Sumo Deadlift"
+                ]
+            },
+            "push": {
+                "intermediate": [
+                    "Good Morning",
+                    "Good Morning off Pins",
+                    "Hanging Bar Good Morning"
+                ]
+            }
+        },
+        "glutes": {
+            "push": {
+                "intermediate": [
+                    "Barbell Glute Bridge",
+                    "Barbell Hip Thrust",
+                    "Kneeling Squat"
+                ],
+                "beginner": [
+                    "Hip Lift with Band"
+                ]
+            }
+        },
+        "triceps": {
+            "push": {
+                "intermediate": [
+                    "Bench Press - Powerlifting",
+                    "Board Press",
+                    "Chain Handle Extension",
+                    "Dumbbell Floor Press",
+                    "Floor Press",
+                    "Floor Press with Chains",
+                    "Pin Presses",
+                    "Reverse Band Bench Press"
+                ],
+                "expert": [
+                    "Bench Press with Chains"
+                ]
+            }
+        },
+        "quadriceps": {
+            "push": {
+                "intermediate": [
+                    "Box Squat",
+                    "Reverse Band Box Squat",
+                    "Speed Box Squat",
+                    "Squat with Bands",
+                    "Squat with Chains"
+                ],
+                "expert": [
+                    "Box Squat with Bands",
+                    "Reverse Band Power Squat"
+                ]
+            }
+        },
+        "chest": {
+            "push": {
+                "intermediate": [
+                    "Chain Press"
+                ]
+            }
+        },
+        "lower back": {
+            "pull": {
+                "expert": [
+                    "Deadlift with Bands",
+                    "Deadlift with Chains",
+                    "Reverse Band Deadlift"
+                ],
+                "intermediate": [
+                    "Deficit Deadlift",
+                    "Rack Pulls",
+                    "Rack Pull with Bands",
+                    "Seated Good Mornings"
+                ]
+            }
+        }
+    },
+    "olympic weightlifting": {
+        "hamstrings": {
+            "pull": {
+                "intermediate": [
+                    "Clean",
+                    "Muscle Snatch",
+                    "Power Clean from Blocks",
+                    "Romanian Deadlift from Deficit",
+                    "Snatch Deadlift",
+                    "Wide Stance Stiff Legs"
+                ],
+                "beginner": [
+                    "Clean Deadlift"
+                ],
+                "expert": [
+                    "Hang Snatch",
+                    "Hang Snatch - Below Knees",
+                    "Power Snatch",
+                    "Split Snatch"
+                ]
+            }
+        },
+        "shoulders": {
+            "push": {
+                "expert": [
+                    "Clean and Jerk",
+                    "Push Press"
+                ],
+                "intermediate": [
+                    "Jerk Balance",
+                    "Push Press - Behind the Neck"
+                ]
+            },
+            "pull": {
+                "intermediate": [
+                    "Rack Delivery"
+                ]
+            }
+        },
+        "quadriceps": {
+            "pull": {
+                "intermediate": [
+                    "Clean from Blocks",
+                    "Clean Pull",
+                    "Hang Clean",
+                    "Hang Clean - Below the Knees",
+                    "Power Snatch from Blocks",
+                    "Snatch",
+                    "Split Clean"
+                ],
+                "expert": [
+                    "Snatch from Blocks"
+                ]
+            },
+            "push": {
+                "intermediate": [
+                    "Frankenstein Squat",
+                    "Heaving Snatch Balance",
+                    "Jerk Dip Squat",
+                    "Olympic Squat",
+                    "Snatch Balance",
+                    "Split Jerk"
+                ],
+                "expert": [
+                    "Overhead Squat",
+                    "Power Jerk"
+                ]
+            }
+        },
+        "traps": {
+            "pull": {
+                "beginner": [
+                    "Clean Shrug"
+                ],
+                "intermediate": [
+                    "Snatch Shrug"
+                ]
+            }
+        },
+        "glutes": {
+            "push": {
+                "expert": [
+                    "Kneeling Jump Squat"
+                ]
+            }
+        }
+    },
+    "cardio": {
+        "hamstrings": {
+            "push": {
+                "beginner": [
+                    "Prowler Sprint"
+                ]
+            }
+        }
+    }
+}
